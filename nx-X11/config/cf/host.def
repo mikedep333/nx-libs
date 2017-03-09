@@ -228,7 +228,7 @@
 /*
  * This allows the GCC warning flags to be set.  The default is shown here.
  *
-#define GccWarningOptions -Wall -Wpedantic -Wpointer-arith -Wstrict-prototypes \
+#define GccWarningOptions -Wall -pedantic -Wpointer-arith -Wstrict-prototypes \
                           -Wmissing-prototypes -Wmissing-declarations \
                           -Wredundant-decls -Wnested-externs
  */
